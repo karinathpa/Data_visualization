@@ -1,6 +1,6 @@
-*Product Purchase Analysis
+Product Purchase Analysis
 
-Introduction*
+*Introduction*
 
 The company gathered data about customers to whom they offered the new product. We are given information about whether they did or did not sign up for the new product, together with some customer information and information about their buying behavior of two other products (Product A and Product B).
 
